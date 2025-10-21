@@ -1,4 +1,4 @@
-## Developer: {Full Name}
+## Developer: Tate Criqui
 
 Closes #{ISSUE NUMBER HERE}
 
