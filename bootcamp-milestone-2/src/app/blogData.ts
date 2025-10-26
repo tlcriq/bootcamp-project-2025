@@ -1,4 +1,13 @@
-export var blogs = [
+export interface Blog {
+    title: string
+    date: string
+    description: string
+    image: string
+    imageAlt: string
+    slug: string
+}
+
+const blogs: Blog[] = [
     {
         title: "Initial testing entry",
         date: "October 10th, 2025",
@@ -16,3 +25,5 @@ export var blogs = [
         slug: "second-entry"
     }
 ];
+
+export default blogs;
