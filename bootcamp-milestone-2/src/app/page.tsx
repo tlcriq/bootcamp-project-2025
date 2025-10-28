@@ -1,14 +1,7 @@
-import Image from "next"
+
 
 export default function Home() {
   return (
-<html>
-    <head>
-        <title>TateSite</title>
-        <link rel="stylesheet" href="styles.css" />
-    </head>
-
-    <body>
 
         <main>
             <h1 className = "page-title">
@@ -52,11 +45,5 @@ export default function Home() {
                 </div>
             </div>
         </main>
-
-        <footer className="footer">
-            © 2023 TateSite | All Rights Reserved
-        </footer>
-    </body>
-</html>
   )
 }

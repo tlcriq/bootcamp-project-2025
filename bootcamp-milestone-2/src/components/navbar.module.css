@@ -13,8 +13,8 @@
   align-items: center;
   text-align: center;
 
-  background-color: var(--cg-teal);
-  color: var(--cg-white);
+  background-color: var(rgb(33, 69, 81));
+  color: var(rgb(255,255,255));
   padding: 0px 0px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
