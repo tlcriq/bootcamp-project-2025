@@ -7,13 +7,13 @@ export default function Navbar() {
     <header className={style.navigator}>
       <nav className="navbar">
         <h1 className="logo">
-            <a href="index.html">Home</a>
+            <a href="/">Home</a>
         </h1>
         <ul className="navbar">
-            <li> <Link href="blog.html">Blog</Link> </li>
-            <li> <Link href="portfolio.html">Portfolio</Link> </li>
-            <li> <Link href="resume.html">Resume</Link> </li>
-            <li> <Link href="contact.html">Contact</Link> </li>
+            <li> <Link href="/blog">Blog</Link> </li>
+            <li> <Link href="/portfolio">Portfolio</Link> </li>
+            <li> <Link href="/resume">Resume</Link> </li>
+            <li> <Link href="/contact">Contact</Link> </li>
         </ul>
       </nav>
     </header>
