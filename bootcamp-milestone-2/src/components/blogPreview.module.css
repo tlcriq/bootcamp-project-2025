@@ -1,0 +1,21 @@
+
+.rounded {
+  flex: 1;
+  background-color: #f8f8f8;
+  border-radius: 45px;
+  margin: 20px;
+  padding: 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  font-family:Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.blogImage {
+  max-width: 300px;
+  max-height: 200px;
+  border-color: black;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.blog-title {
+    font-size: 24px
+}

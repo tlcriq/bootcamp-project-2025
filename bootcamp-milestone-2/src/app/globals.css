@@ -36,6 +36,8 @@ main {
   justify-content: center;
   font-size: 40px;
   font-family: Georgia;
+  font-weight: bold;
+  margin: 20px;
 }
 
 .rounded {
@@ -63,6 +65,7 @@ main {
 
 .about-image img {
   max-width: 300px;
+  max-height: 300px;
   border-radius: 3px;
   border-color: black;
   /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
@@ -180,6 +183,17 @@ main {
   font-family: Georgia;
 }
 
+/* Blog page css */
+.blog-entries {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #cdd9df;
+  border: 1px solid #ccc;
+}
+
+
 /* CSS for contact form */
 
 label {
@@ -217,6 +231,14 @@ input[type="email"]{
   border-radius: 4px;
   font-size: 16px;
   resize: none;
+}
+input[type="submit"]{
+  color: var(--cg-white);
+  background-color: var(--cg-navy);
+  border-radius: 45px;
+  margin: 20px;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 }
 textarea {
   width: 100%;

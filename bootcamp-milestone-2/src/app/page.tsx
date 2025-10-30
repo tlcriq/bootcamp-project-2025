@@ -9,19 +9,19 @@ export default function Home() {
 
             <div className="about">
                 <div className="about-image">
-                    <img src = "Tate2.jpeg" alt = "It's me!" height = {300} />
+                    <img src = "Tate2.jpeg" alt = "It's me!" />
                 </div>
                 <div className="about-text">
                     <p> 
                         <strong>Tate Criqui</strong> is a freshman computer science major
                         from San Diego, CA.
-                    </p>
+                    </p> <br />
                     
                     <p> 
                         Previously, he has worked with <strong>The League of Amazing Programmers</strong>
                         (<em>a nonprofit organization for young coders</em>), teaching classes on 
                         <strong>Java</strong> and <strong>Python</strong> programming.
-                    </p>
+                    </p> <br />
                         
                     <p>
                         He has also created several large-scale projects, such as an <strong>action-adventure game</strong>,
@@ -29,7 +29,7 @@ export default function Home() {
                         For his high school <strong>capstone engineering project</strong>, he collaborated with 
                         <strong>NexStream Technical Education</strong> to create a curriculum for
                         a <strong>digital electronics college class</strong>.
-                    </p>
+                    </p> <br />
 
                     <p>
                         Outside of his work and studies, Tate also enjoys <strong>hiking, reading, and acting</strong>. 
