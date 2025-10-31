@@ -257,15 +257,14 @@ form {
   margin: 0 auto;
 }
 
-/* duplicate blog functions */
-.blog-title {
-  font-weight: bold;
-  font-size: 20px;
-}
+/* one blog thing */
+.blog-list {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  right: 30px;
+  list-style:decimal;
 
-.blogImage {
-  max-width: 300px;
-  max-height: 200px;
-  border-color: black;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  /* Debug border */
+  /* border: solid blue; */
 }

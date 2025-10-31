@@ -8,7 +8,7 @@ export default function Navbar() {
       <nav className={style.navbar}>
           
             <a href="/">
-                <img src = "logo.png" alt = "Cool logo" className={style.logo} />
+                <img src = "logo.png" alt = "O" className={style.logo} />
             </a>
         <ul className={style.navbar}>
             <li> <Link href="/blog">Blog</Link> </li>

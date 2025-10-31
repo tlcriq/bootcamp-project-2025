@@ -16,7 +16,13 @@
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 }
 
-.blog-title {
+.blogTitle {
   font-weight: bold;
   font-size: 20px;
+}
+
+.canYouCenterADiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

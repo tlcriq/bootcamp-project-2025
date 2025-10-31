@@ -21,6 +21,7 @@ export default function Blog() {
                   imageAlt={blog.imageAlt}
                   date={blog.date}
                   slug={blog.slug}
+                  text=""
                   />
                 )}
             </div>
