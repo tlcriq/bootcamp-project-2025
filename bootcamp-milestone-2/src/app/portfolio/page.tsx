@@ -9,7 +9,7 @@ export default function Portfolio() {
 
             <div className="project">
                 <Link href="/">
-                    <img src="website_1.1.png" alt="The website you're already at" height={400} className="portfolio-picture" />
+                    <img src="website_1.1.png" alt="The website you're already at" height={400} className="project-image" />
                 </Link>
                 <div className="project-details">
                     <p className="project-name"> <strong>Personal Website</strong> </p>

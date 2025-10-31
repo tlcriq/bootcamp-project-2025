@@ -18,16 +18,16 @@ export default function Home() {
                     </p> <br />
                     
                     <p> 
-                        Previously, he has worked with <strong>The League of Amazing Programmers</strong>
+                        Previously, he has worked with <strong>The League of Amazing Programmers </strong>
                         (<em>a nonprofit organization for young coders</em>), teaching classes on 
-                        <strong>Java</strong> and <strong>Python</strong> programming.
+                        <strong> Java</strong> and <strong>Python</strong> programming.
                     </p> <br />
                         
                     <p>
                         He has also created several large-scale projects, such as an <strong>action-adventure game</strong>,
                          a <strong>Discord bot</strong>, and a <strong>motion detection system</strong> using <strong>computer vision</strong>.
                         For his high school <strong>capstone engineering project</strong>, he collaborated with 
-                        <strong>NexStream Technical Education</strong> to create a curriculum for
+                        <strong> NexStream Technical Education</strong> to create a curriculum for
                         a <strong>digital electronics college class</strong>.
                     </p> <br />
 

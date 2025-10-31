@@ -8,7 +8,7 @@ export default function Blog() {
                 Blog
             </h1>
 
-            Bloggin' it
+            [Bloggin' it]
             <div id = "blog-entries">
                 {blogs.map( (blog) => 
                   <BlogPreview
