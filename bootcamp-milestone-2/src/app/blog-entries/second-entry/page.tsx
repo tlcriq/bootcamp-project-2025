@@ -12,7 +12,6 @@ export default function SecondEntry() {
             imageAlt={blogs[1].imageAlt}
             date={blogs[1].date}
             slug={blogs[1].slug}
-            text={blogs[1].text}
         />
         <p >
             All right! Website is just about done. Here's a look at 

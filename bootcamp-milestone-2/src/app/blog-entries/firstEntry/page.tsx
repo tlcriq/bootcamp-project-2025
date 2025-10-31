@@ -12,7 +12,6 @@ export default function FirstEntry() {
           imageAlt={blogs[0].imageAlt}
           date={blogs[0].date}
           slug={blogs[0].slug}
-          text={blogs[0].text}
       />
       <p >
         There's the initial version of my website. Look how far we've come.

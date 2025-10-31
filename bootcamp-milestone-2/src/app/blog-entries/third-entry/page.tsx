@@ -12,7 +12,6 @@ export default function ThirdEntry() {
             imageAlt={blogs[2].imageAlt}
             date={blogs[2].date}
             slug={blogs[2].slug}
-            text={blogs[2].text}
         />
         <p>
             Hey! Here's a quick update about this milestone (this may look more like patch notes than a blog):
