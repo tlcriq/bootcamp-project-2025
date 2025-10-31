@@ -1,4 +1,5 @@
 export default function Resume() {
+    return (
     <main>
             <h1 className = "page-title">
                 Resume
@@ -70,4 +71,5 @@ export default function Resume() {
             </div>
 
         </main>
+    );
 }

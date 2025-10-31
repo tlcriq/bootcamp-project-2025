@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export default function Portfolio() {
+    return (
     <main>
             <h1 className = "page-title">
                 Portfolio
@@ -19,4 +20,5 @@ export default function Portfolio() {
                 </div>
             </div>
     </main>
+    );
 }
